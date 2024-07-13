@@ -1,0 +1,21 @@
+2024-07-05 08:29:45,510: Key pressed: n
+2024-07-05 08:29:45,733: Key pressed: o
+2024-07-05 08:29:45,968: Key pressed: t
+2024-07-05 08:29:46,829: Special key pressed: Key.enter
+2024-07-05 08:29:49,245: Key pressed: h
+2024-07-05 08:29:49,562: Key pressed: e
+2024-07-05 08:29:49,686: Key pressed: l
+2024-07-05 08:29:49,822: Key pressed: l
+2024-07-05 08:29:50,023: Key pressed: o
+2024-07-05 08:29:50,183: Key pressed: w
+2024-07-05 08:29:50,333: Special key pressed: Key.space
+2024-07-05 08:29:50,526: Key pressed: i
+2024-07-05 08:29:50,697: Key pressed: m
+2024-07-05 08:29:50,868: Special key pressed: Key.space
+2024-07-05 08:29:51,017: Key pressed: a
+2024-07-05 08:29:51,158: Key pressed: s
+2024-07-05 08:29:51,289: Key pressed: h
+2024-07-05 08:29:51,425: Key pressed: w
+2024-07-05 08:29:51,514: Key pressed: i
+2024-07-05 08:29:51,696: Key pressed: n
+2024-07-05 08:29:51,874: Special key pressed: Key.space
